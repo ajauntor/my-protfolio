@@ -4,8 +4,18 @@ body{
 
 h1{
     font-size: 50px;
+    font-family: 'Goldman', cursive;
 }
 /* this is color hexcode #8a2be2 */
 .name-hilight{
     color: rgb(138, 43, 226);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
