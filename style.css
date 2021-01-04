@@ -1,0 +1,11 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+/* this is color hexcode #8a2be2 */
+.name-hilight{
+    color: rgb(138, 43, 226);
+}
