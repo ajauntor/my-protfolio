@@ -28,10 +28,10 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    width: 120%;
+    width: 100%;
 }
 .top-banner{
-    background-image: url("Image/top-banner.png");
+    background-image: url("Image/top.png");
     background-repeat: no-repeat;
 }
 section{
