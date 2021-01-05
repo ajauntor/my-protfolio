@@ -53,3 +53,6 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.half-width .img02{
+    width: 500px;
+}
