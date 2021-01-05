@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -17,5 +18,13 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 120%;
+}
+.top-banner{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    
 }
