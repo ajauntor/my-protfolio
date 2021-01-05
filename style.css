@@ -16,6 +16,7 @@ h3{
 }
 p{
     color: dimgray;
+    text-align: justify;
 }
 /* this is color hexcode #8a2be2 */
 .name-hilight{
@@ -46,4 +47,9 @@ section{
     padding: 5px 15px;
     border-radius: 5px;
     color: white;
+}
+.dream-area{
+    background-image: url("Image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
