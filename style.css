@@ -54,5 +54,30 @@ section{
     background-position: right;
 }
 .half-width .img02{
-    width: 500px;
+    width: 450px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 65%;
+    border-radius: 10px;
+    background-color: white;
+}
+.p-padding{
+    padding: 0px 10px;
+}
+.last-sec{
+    background-image: url("Image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border01{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg,lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#border02{
+    border-left: 10px solid ;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
 }
